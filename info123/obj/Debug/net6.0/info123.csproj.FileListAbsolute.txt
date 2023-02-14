@@ -1,0 +1,15 @@
+C:\Users\Ivan\Desktop\Repo002\Ex0009\info123\bin\Debug\net6.0\info123.exe
+C:\Users\Ivan\Desktop\Repo002\Ex0009\info123\bin\Debug\net6.0\info123.deps.json
+C:\Users\Ivan\Desktop\Repo002\Ex0009\info123\bin\Debug\net6.0\info123.runtimeconfig.json
+C:\Users\Ivan\Desktop\Repo002\Ex0009\info123\bin\Debug\net6.0\info123.dll
+C:\Users\Ivan\Desktop\Repo002\Ex0009\info123\bin\Debug\net6.0\info123.pdb
+C:\Users\Ivan\Desktop\Repo002\Ex0009\info123\obj\Debug\net6.0\info123.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\Repo002\Ex0009\info123\obj\Debug\net6.0\info123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\Repo002\Ex0009\info123\obj\Debug\net6.0\info123.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\Repo002\Ex0009\info123\obj\Debug\net6.0\info123.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\Repo002\Ex0009\info123\obj\Debug\net6.0\info123.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Repo002\Ex0009\info123\obj\Debug\net6.0\info123.dll
+C:\Users\Ivan\Desktop\Repo002\Ex0009\info123\obj\Debug\net6.0\refint\info123.dll
+C:\Users\Ivan\Desktop\Repo002\Ex0009\info123\obj\Debug\net6.0\info123.pdb
+C:\Users\Ivan\Desktop\Repo002\Ex0009\info123\obj\Debug\net6.0\info123.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\Repo002\Ex0009\info123\obj\Debug\net6.0\ref\info123.dll
